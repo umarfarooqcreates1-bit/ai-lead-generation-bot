@@ -20,3 +20,10 @@ Agencies and businesses can use this tool to automate their sales pipeline.
 - WhatsApp integration
 - CRM automation
 - Multi-language support
+## Roadmap
+
+- [x] Basic AI message generation
+- [x] Lead qualification logic
+- [ ] WhatsApp automation integration
+- [ ] CRM system integration
+- [ ] Web dashboard for analytics
