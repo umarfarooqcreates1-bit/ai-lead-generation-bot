@@ -1,7 +1,6 @@
 # AI Lead Generation Bot
 
-This project is a simple AI-powered system designed to help businesses automate lead generation and qualification.
-
+An AI-powered system that automates lead qualification and outreach for small businesses.
 ## Features
 - AI-generated outreach messages
 - Lead qualification logic
