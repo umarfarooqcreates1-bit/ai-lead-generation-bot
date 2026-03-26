@@ -27,3 +27,7 @@ Agencies and businesses can use this tool to automate their sales pipeline.
 - [ ] CRM system integration
 - [ ] Web dashboard for analytics
 - 🚀 Next: integrate user analytics & CRM hooks
+## Planned Features
+- Dashboard for lead metrics
+- Multi-language support
+- CRM integrations
