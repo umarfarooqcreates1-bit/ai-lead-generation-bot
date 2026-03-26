@@ -2,3 +2,4 @@ def generate_message(name):
     return f"Hi {name}, we help businesses automate lead generation using AI."
 
 print(generate_message("Client"))
+# Future: add CRM integration for leads
