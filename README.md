@@ -26,3 +26,4 @@ Agencies and businesses can use this tool to automate their sales pipeline.
 - [ ] WhatsApp automation integration
 - [ ] CRM system integration
 - [ ] Web dashboard for analytics
+- 🚀 Next: integrate user analytics & CRM hooks
